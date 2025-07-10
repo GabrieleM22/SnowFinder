@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920510440937",
+    "project_id": "snowfinder-22",
+    "storage_bucket": "snowfinder-22.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920510440937:android:880e5574e2d71a67f1d778",
+        "android_client_info": {
+          "package_name": "com.example.snowfinder_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd8LIxPtI3_X-G3vjG3NBj3ysgXLSVIys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
